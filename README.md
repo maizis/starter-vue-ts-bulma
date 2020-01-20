@@ -4,6 +4,9 @@
 ```
 yarn install
 ```
+```
+VueCli with Router, Store, VueX - Typescript - Axios - Bulma 
+```
 
 ### Compiles and hot-reloads for development
 ```
